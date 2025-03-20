@@ -1,0 +1,8 @@
+# Ignore datasets
+data/mel_spectrograms/
+
+# Ignore model checkpoints
+logs/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
